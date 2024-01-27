@@ -50,4 +50,4 @@ jobs:
           app-name: 'dians2'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4DABF238BA045C7A01AE91C00D3B8E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D618560198C41F897ED2047E75871A4 }}
